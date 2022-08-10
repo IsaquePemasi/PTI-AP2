@@ -2,26 +2,27 @@ import java.util.*;
 
 class Exercicio {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         System.out.println("Insira o tamanho do vetor: ");
-        int n = sc.nextInt();
-        System.out.println("Este eh o tamanho do vetor escolhido: " + n);
-        System.out.println("Agora insira os elementos do seu vetor: ");
+        int n = scanner.nextInt();
+        System.out.println("Este é o tamanho do vetor escolhido: " + n);
+        System.out.println("Agora, insira os elementos do seu vetor: ");
         ArrayList<Integer> vetor = new ArrayList<>();
         for(int i = 0; i < n; i++) {
-            vetor.add(sc.nextInt());
+            vetor.add(scanner.nextInt());
         }
+        System.out.println("Os " + vetor.size() + " valores informados são: ");
         for(int i = 0; i < n; i++) {
             System.out.println(vetor.get(i));
         }
     
         if(ordenadoCrescente(vetor)) {
-            System.out.println("Esta ordenado!");
+            System.out.println("Os valores informados, estão ordenados!");
         } else {
-            System.out.println("Nao esta ordenado!");
+            System.out.println("Os valores informados, Nao estão ordenados!");
         }
         int resultado = maiorDiferenca(vetor);
-        System.out.println("A maior diferenca entre elementos eh: " + resultado);
+        System.out.println("A maior diferença entre os elementos é: " + resultado);
     }
     
     public static int maiorDiferenca(ArrayList<Integer> vetor) {
