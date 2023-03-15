@@ -1,5 +1,5 @@
 <h1>Produção Textual Individual - Algoritmos e programação 2</h1>
-<img src= "TrabalhandoComVetores/img/cmd.png" alt = "PTI">
+<img src= "TrabalhandoComVetores/img/cmd.png" width= 100% alt = "PTI">
 <h2>Tema - Trabalhando com Vetores</h2>
 <h2>Texto base:</h2>
 Um vetor é uma estrutura de dados que armazena uma sequência de elementos, todos do mesmo tipo, em posições consecutivas da memória RAM do computador. Essa estrutura permite acesso aleatório através de um índice numérico, isto é, qualquer elemento do vetor pode ser alcançado diretamente, sem passar pelos elementos anteriores.
