@@ -1,7 +1,7 @@
-<h1>Produção Textual Individual - Algoritmos e programação 2</h1>
+<h1>Individual Textual Production - Algorithms and programming 2</h1>
 <img src= "TrabalhandoComVetores/img/cmd.png" width= 100% alt = "PTI">
-<h2>Tema - Trabalhando com Vetores</h2>
-<h2>Texto base:</h2>
-Um vetor é uma estrutura de dados que armazena uma sequência de elementos, todos do mesmo tipo, em posições consecutivas da memória RAM do computador. Essa estrutura permite acesso aleatório através de um índice numérico, isto é, qualquer elemento do vetor pode ser alcançado diretamente, sem passar pelos elementos anteriores.
-<h2>Enunciado:</h2>
-Escreva um programa em Java que leia uma sequência N de números inteiros (negativos, positivos e o zero) para um vetor. No início do programa é solicitado ao usuário (pelo teclado) qual é a quantidade de elementos que serão lidos para o vetor e depois disso os números são lidos para o vetor. Em seguida você deve implementar para cada um dos itens abaixo uma função:<br> a) Calcule e retorna o valor da maior diferença entre dois elementos distintos no vetor. <br>b) Verifica se o vetor está em ordem crescente, e retorna true caso esteja e false caso contrário.
+<h2>Theme - Working with Vectors</h2>
+<h2>Base text:</h2>
+A vector is a data structure that stores a sequence of elements, all of the same type, in consecutive locations in the computer's RAM memory. This structure allows random access through a numerical index, that is, any element of the vector can be reached directly, without going through the previous elements.
+<h2>Statement:</h2>
+Write a Java program that reads a sequence N of integers (negative, positive and zero) into a vector. At the beginning of the program, the user is asked (via the keyboard) how many elements will be read into the vector and after that the numbers are read into the vector. Then you must implement a function for each of the items below:<br> a) Calculate and return the value of the greatest difference between two distinct elements in the array. <br>b) Checks if the array is in ascending order, and returns true if it is and false otherwise.
