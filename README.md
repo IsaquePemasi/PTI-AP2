@@ -1,4 +1,5 @@
 <h1>Individual Textual Production - Algorithms and programming 2</h1>
+<p>Link - https://www.youtube.com/watch?v=I0xXF1w8CLI</p>
 <img src= "TrabalhandoComVetores/img/cmd.png" width= 100% alt = "PTI">
 <h2>Theme - Working with Vectors</h2>
 <h2>Base text:</h2>
